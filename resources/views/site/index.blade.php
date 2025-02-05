@@ -72,7 +72,7 @@
                         <div class="wt-thum-bx wt-img-effect  overlay-wraper overflow-hide radius-md wt-img-overlay2">
                             <div class="overlay-main bg-black opacity-02 "></div>
                             <img src="{{asset('/site/images/gallery/pic3.jpg')}}" alt="">
-                            <a class="mfp-video video-play-btn" href="video/1.mp4">
+                            <a class="mfp-video video-play-btn" href="{{asset('/site/video/1.mp4')}}">
                                 <i class="fa fa-play"></i>
                             </a>
                         </div>
