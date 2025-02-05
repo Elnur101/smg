@@ -1,5 +1,5 @@
-/*===================== 
-	Premery bg color 
+/*=====================
+	Premery bg color
 =====================*/
 
 ::selection {
@@ -116,7 +116,7 @@ ol.list-num-count>li::before,
 .site-button:hover,
 .site-button:focus,
 .site-button:active {
-	background-color: #a60000;
+	background-color: #00c5ff;
 }
 
 
@@ -140,9 +140,9 @@ ol.list-num-count>li::before,
 }
 
 
-/*===================== 
+/*=====================
 
-	Premery text color 
+	Premery text color
 
 =====================*/
 
@@ -242,9 +242,9 @@ blockquote::before
 }
 
 
-/*===================== 
+/*=====================
 
-	Premery border color 
+	Premery border color
 
 =====================*/
 
@@ -285,7 +285,7 @@ ol.list-num-count.list-outline > li::before
 	color: #fff;
 }
 
-/*===================== 
+/*=====================
 
 	Secondery bg hex color
 
